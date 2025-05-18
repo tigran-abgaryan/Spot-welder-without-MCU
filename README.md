@@ -9,7 +9,7 @@ $T=RC \times ln \left ( {V_{High}-V_{T-} \over V_{High}-V_{T+}} \times  {V_{T+} 
 
 where $V_{High}=5V$, $V_{T+}=3.3V$, and $V_{T-}=1.65V$ for 4093 CMOS series.
 
-With shown component values we've got ~0.3 sec for pulse length and delay and it's quite enough to weld 0.1-0.2mm thin metal sheet, but if you wanna go hard you may increase R2C4, R3C5, R4C6 values and weld way thicker sheets (even 0.8 mm).
+With the shown component values we've got ~0.3 sec for pulse length and delay and it's quite enough to weld 0.1-0.2mm thin metal sheet, but if you wanna go hard you may increase R2C4, R3C5, R4C6 values and weld way thicker sheets (even 0.8 mm).
 
 Low power option gives the opportunity to more delicate and precision works (like UHF and SHF projects). HL1 lits green when SA1 is switched on and SA4 in a middle position (T2 disconnected from neutral). When SA4 switched on and T2 connected to neutral thru HL2, HL3 or directly, the second anode (red) of HL1 shunts first (green) and HL1 lits red showing that welder is powered and ready to work. Adjust pulse and delay periods before switching SA4 on.  
 
